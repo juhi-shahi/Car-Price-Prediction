@@ -30,12 +30,7 @@ Estimate car prices based on key vehicle attributes. This project highlights:
 | `max_power`    | Maximum power (bhp)                 |
 | `seats`        | Number of seats                     |
 
-## 🚀 Quick Start
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/juhi-shahi/car-price-prediction.git
-cd car-price-prediction
 
 ```markdown
 ## 🧪 Example Prediction
