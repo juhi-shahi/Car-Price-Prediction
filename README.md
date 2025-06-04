@@ -54,7 +54,6 @@ Predicted Price: 496,290.89
 
 The model is deployed locally using Streamlit.
 🔗 Access it at: http://localhost:8501/
-
 ## 🌟 Future Enhancements
 
 - ✅ One-hot encoding for categorical variables  
