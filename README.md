@@ -52,17 +52,31 @@ print(f"Predicted Price: {predicted_price[0]:,.2f}")
 📉 Sample Output
 Predicted Price: 496,290.89 
 
-The model is deployed locally using Streamlit.
-🔗 Access it at: [http://localhost:8501](http://localhost:8501)  
-## 🌟 Future Enhancements
+# Car Price Prediction Web App  
+An interactive Streamlit application that predicts used car prices based on various features using a Linear Regression model.
 
-- ✅ One-hot encoding for categorical variables  
-- ✅ Compare with advanced models (Random Forest, XGBoost)  
-- ✅ Improve feature engineering & tuning
+---
 
-## 🚦 Get Started Today!
+## Features  
+- Predict car prices instantly based on inputs like brand, year, fuel type, mileage, and more.  
+- Easy-to-use Streamlit interface for smooth user experience.  
+- Built with Python, Scikit-learn, and deployed on Streamlit Cloud.
 
-Clone the repo, run the notebook, and explore your car price prediction potential 🚗💨
+---
+
+## Demo  
+Try the live demo here:  
+
+👉 [Open the Car Price Prediction Web App](https://car-price-prediction-kfa7dwa78ythfejgtrlrpp.streamlit.app/)
+
+---
+
+## Installation  
+Clone the repository:  
+```bash
+git clone https://github.com/juhi-shahi/car-price-prediction.git
+cd car-price-prediction
+
 
 
 
