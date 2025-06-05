@@ -51,7 +51,7 @@ predicted_price = model.predict(input_data_model)
 print(f"Predicted Price: {predicted_price[0]:,.2f}")
 📉 Sample Output
 Predicted Price: 496,290.89 
-
+```
 # Car Price Prediction Web App  
 An interactive Streamlit application that predicts used car prices based on various features using a Linear Regression model.
 
@@ -73,9 +73,13 @@ Try the live demo here:
 
 ## Installation  
 Clone the repository:  
+
 ```bash
 git clone https://github.com/juhi-shahi/car-price-prediction.git
 cd car-price-prediction
+
+
+
 
 
 
