@@ -4,7 +4,7 @@ import pickle as pk
 import streamlit as st
 model=pk.load(open('model.pkl','rb'))
 st.header('Car price  Prediction ML Model')
-data=pd.read_csv('C:\\Users\\Lenovo\\Downloads\\Cardetails.csv')
+data=pd.read_csv('Cardetails.csv')
 
 def get_brand_name(car_name):
     car_name=car_name.split(' ')[0]
